@@ -25,6 +25,7 @@ public class ShortestDistancetoaCharacter {
                 arr[i] = idx;
             }
         }
+
         return arr;
     }
 }
